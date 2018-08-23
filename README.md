@@ -5,10 +5,9 @@ when I may become stuck in the future, and also provides a physical reference to
 *Many assignments have been completed prior to the beginning of this log.*
 ## Javascript Algorithms And Data Structures Certification <br>
 ### ES6 <br>
-1. Creating Strings Using Template Literals<br>
-2. Write Concise Object Literal Declarations Using Simple Fields<br>
-3. Write Concise Declarative Functions with ES6.<br>
-4. Use class Syntax to Define a Constructor Function<br>
+1. Write Concise Object Literal Declarations Using Simple Fields<br>
+2. Write Concise Declarative Functions with ES6.<br>
+3. Use class Syntax to Define a Constructor Function<br>
 5. Use getters and setters to Control Access to an Object<br>
 6. Understand the Differences Between import and require<br>
 7. Use export to Reuse a Code Block<br>

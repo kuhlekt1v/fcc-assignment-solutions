@@ -60,3 +60,24 @@ when I may become stuck in the future, and also provides a physical reference to
 10. Catch Off By One Errors When Using Indexing - *082618*<br>
 11. Use Caution When Reinitializing Variables Inside a Loop - *082618*<br>
 12. Prevent Infinite Loops with a Valid Terminal Condition - *082618*<br>
+### Basic Data Structures <br>
+1. Use an Array to Store a Collection of Data - *082618*<br>
+2. Access an Array's Contents Using Bracket Notation - *082618*<br>
+3. Add Items to an Array with push() and unshift() - *082618*<br>
+4. Remove Items from an Array with pop() and shift() - *082618*<br>
+5. Remove Items Using splice() - *082618*<br>
+6. Add Items Using splice() - *082618*<br>
+7. Copy Array Items Using slice() - *082618*<br>
+8. Copy an Array with the Spread Operator - *082618*<br>
+9. Combine Arrays with the Spread Operator - *082618*<br>
+10. Check For The Presence of an Element With indexOf()<br>
+11. Iterate Through All an Array's Items Using For Loops<br>
+12. Create complex multi-dimensional arrays<br>
+13. Add Key-Value Pairs to JavaScript Objects<br>
+14. Modify an Object Nested Within an Object<br>
+15. Access Property Names with Bracket Notation<br>
+16. Use the delete Keyword to Remove Object Properties<br>
+17. Check if an Object has a Property<br>
+18. Iterate Through the Keys of an Object with a for...in Statement<br>
+19. Generate an Array of All Object Keys with Object.keys()<br>
+20. Modify an Array Stored in an Object<br>

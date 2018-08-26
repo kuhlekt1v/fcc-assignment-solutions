@@ -47,3 +47,16 @@ when I may become stuck in the future, and also provides a physical reference to
 30. Reuse Patterns Using Capture Groups - *082518*<br>
 31. Use Capture Groups to Search and Replace - *082518*<br>
 32. Remove Whitespace from Start and End - *082518*<br>
+### Debugging <br>
+1. Use the JavaScript Console to Check the Value of a Variable - *082618*<br>
+2. Understanding the Differences between the freeCodeCamp and Browser Console - *082618*<br>
+3. Use typeof to Check the Type of a Variable - *082618*<br>
+4. Catch Misspelled Variable and Function Names - *082618*<br>
+5. Catch Unclosed Parentheses, Brackets, Braces and Quotes - *082618*<br>
+6. Catch Mixed Usage of Single and Double Quotes - *082618*<br>
+7. Catch Use of Assignment Operator Instead of Equality Operator - *082618*<br>
+8. Catch Missing Open and Closing Parenthesis After a Function Call - *082618*<br>
+9. Catch Arguments Passed in the Wrong Order When Calling a Function - *082618*<br>
+10. Catch Off By One Errors When Using Indexing - *082618*<br>
+11. Use Caution When Reinitializing Variables Inside a Loop - *082618*<br>
+12. Prevent Infinite Loops with a Valid Terminal Condition - *082618*<br>

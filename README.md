@@ -70,10 +70,10 @@ when I may become stuck in the future, and also provides a physical reference to
 7. Copy Array Items Using slice() - *082618*<br>
 8. Copy an Array with the Spread Operator - *082618*<br>
 9. Combine Arrays with the Spread Operator - *082618*<br>
-10. Check For The Presence of an Element With indexOf()<br>
-11. Iterate Through All an Array's Items Using For Loops<br>
-12. Create complex multi-dimensional arrays<br>
-13. Add Key-Value Pairs to JavaScript Objects<br>
+10. Check For The Presence of an Element With indexOf()<br> - *082718*<br>
+11. Iterate Through All an Array's Items Using For Loops<br> - *082718*<br>
+12. Create complex multi-dimensional arrays<br> - *082718*<br>
+13. Add Key-Value Pairs to JavaScript Objects<br> - *082718*<br>
 14. Modify an Object Nested Within an Object<br>
 15. Access Property Names with Bracket Notation<br>
 16. Use the delete Keyword to Remove Object Properties<br>

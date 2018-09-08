@@ -74,9 +74,9 @@ when I may become stuck in the future, and also provides a physical reference to
 11. Iterate Through All an Array's Items Using For Loops  - *082718*<br>
 12. Create complex multi-dimensional arrays - *082718*<br>
 13. Add Key-Value Pairs to JavaScript Objects - *082718*<br>
-14. Modify an Object Nested Within an Object<br>
-15. Access Property Names with Bracket Notation<br>
-16. Use the delete Keyword to Remove Object Properties<br>
+14. Modify an Object Nested Within an Object - *082918*<br>
+15. Access Property Names with Bracket Notation - *082918*<br>
+16. Use the delete Keyword to Remove Object Properties - *082918*<br>
 17. Check if an Object has a Property<br>
 18. Iterate Through the Keys of an Object with a for...in Statement<br>
 19. Generate an Array of All Object Keys with Object.keys()<br>
